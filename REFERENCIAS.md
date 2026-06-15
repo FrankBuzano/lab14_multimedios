@@ -3,12 +3,8 @@
 ## Material del curso
 
 - **Slides de Node.js** presentacion del curso.
-  Fundamentos de Node.js, modulos nativos (`node:fs`, `node:process`, `node:sqlite`), variables de entorno (`--env-file`) y servidor HTTP basico.
 
 - **Slides de Express** presentacion del curso.
-  Setup de Express, rutas dinamicas (`req.params`, `req.query`, `req.body`), `express.json()`, patron repositorio, validacion con Zod e integracion con SQLite, codigos de estado HTTP y cabecera `Location`.
-
-- **Repositorio guia `express-example`** usado como referencia para la organizacion del proyecto.
 
 - **Proyecto previo `tarea2_multimedios`** usado como base estructural (rutas, capa de datos, manejo de imagenes).
 
