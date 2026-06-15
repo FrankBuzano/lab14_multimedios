@@ -1,0 +1,74 @@
+[
+  {
+    "titulo": "Thriller",
+    "artista": "Michael Jackson",
+    "genero": "Pop",
+    "anio": 1982,
+    "sello": "Epic",
+    "pistas": 9,
+    "imagen": "https://upload.wikimedia.org/wikipedia/en/5/55/Michael_Jackson_-_Thriller.png",
+    "slug": "thriller",
+    "resumen": "El album mas vendido de la historia.",
+    "descripcion": "Album de Michael Jackson que redefinio la musica pop de los anos 80. Producido por Quincy Jones, contiene exitos como Billie Jean, Beat It y la cancion homonima Thriller."
+  },
+  {
+    "titulo": "Wishbone",
+    "artista": "Conan Gray",
+    "genero": "Pop",
+    "anio": 2025,
+    "sello": "Republic Records",
+    "pistas": 13,
+    "imagen": "wishbone.avif",
+    "slug": "wishbone",
+    "resumen": "Cuarto album de estudio de Conan Gray.",
+    "descripcion": "Disco confesional de Conan Gray que explora rupturas, autodescubrimiento y nostalgia con una produccion pop minimalista y guitarras acusticas como hilo conductor."
+  },
+  {
+    "titulo": "Meteora",
+    "artista": "Linkin Park",
+    "genero": "Nu Metal",
+    "anio": 2003,
+    "sello": "Warner Bros.",
+    "pistas": 13,
+    "imagen": "meteora.avif",
+    "slug": "meteora",
+    "resumen": "Segundo album de estudio de Linkin Park.",
+    "descripcion": "Sucesor de Hybrid Theory, Meteora consolido el sonido de Linkin Park combinando rap, electronica y nu metal. Incluye Numb, Somewhere I Belong, Faint y Breaking the Habit."
+  },
+  {
+    "titulo": "AM",
+    "artista": "Arctic Monkeys",
+    "genero": "Rock Alternativo",
+    "anio": 2013,
+    "sello": "Domino",
+    "pistas": 12,
+    "imagen": "am.avif",
+    "slug": "am",
+    "resumen": "Quinto album de estudio de Arctic Monkeys.",
+    "descripcion": "AM mezcla rock de garaje, hip hop y stoner rock con la voz de Alex Turner. Incluye exitos como Do I Wanna Know?, R U Mine?, Why'd You Only Call Me When You're High? y Arabella."
+  },
+  {
+    "titulo": "Clancy",
+    "artista": "Twenty One Pilots",
+    "genero": "Rock Alternativo",
+    "anio": 2024,
+    "sello": "Fueled by Ramen",
+    "pistas": 13,
+    "imagen": "clancy.avif",
+    "slug": "clancy",
+    "resumen": "Septimo album de estudio de Twenty One Pilots.",
+    "descripcion": "Cierre conceptual de la saga de Trench y Scaled and Icy. Clancy retoma la narrativa de Dema con temas como Overcompensate, Next Semester y The Craving."
+  },
+  {
+    "titulo": "Short n' Sweet",
+    "artista": "Sabrina Carpenter",
+    "genero": "Pop",
+    "anio": 2024,
+    "sello": "Island Records",
+    "pistas": 12,
+    "imagen": "short-n-sweet.avif",
+    "slug": "short-n-sweet",
+    "resumen": "Sexto album de estudio de Sabrina Carpenter.",
+    "descripcion": "Album que consolido a Sabrina Carpenter como estrella pop global. Contiene Espresso, Please Please Please, Taste y Bed Chem, con una mezcla de pop, country y R&B."
+  }
+]
